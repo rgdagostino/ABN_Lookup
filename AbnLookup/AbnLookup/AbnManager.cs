@@ -15,7 +15,7 @@ namespace AbnLookup
     public class AbnManager
     {
 
-        private const string myGuid = "f673b6b6-bb89-4d66-bdc7-39e9c2574a85";
+        private const string myGuid = ""; // Insert Government Guid
         private const string History = "N";
         private const string Url = "http://abr.business.gov.au/abrxmlsearch/ABRXMLSearch.asmx/ABRSearchByABN?";
 
