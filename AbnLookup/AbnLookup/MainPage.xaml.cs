@@ -40,7 +40,7 @@ namespace AbnLookup
             });
 
             abnNumberText = new Entry();
-            abnNumberText.Text = "55835730711";
+            abnNumberText.Text = ""; //55835730711
             abnNumberText.Keyboard = Keyboard.Numeric;
             panel.Children.Add(abnNumberText);
 

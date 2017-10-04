@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26403.7
+VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbnLookup.Android", "AbnLookup\AbnLookup.Android\AbnLookup.Android.csproj", "{A93B6F1A-11DC-4DBD-AD2D-EAFCDAEE5168}"
 EndProject
@@ -10,6 +10,11 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbnLookup.UWP", "AbnLookup\AbnLookup.UWP\AbnLookup.UWP.csproj", "{5C3FEEA8-B865-41B4-ADC0-7D3FFF87033E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbnLookup.iOS", "AbnLookup\AbnLookup.iOS\AbnLookup.iOS.csproj", "{C6434963-9653-49E1-B70D-FDCE893AAF04}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{001EB224-B672-472B-8315-7D973B55B8AE}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -256,5 +261,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21F1812B-2DC9-4FC9-9C63-0373047E4FCE}
 	EndGlobalSection
 EndGlobal
