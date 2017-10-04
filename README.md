@@ -5,5 +5,7 @@ Easy!
 Available in the following stores:
 
 Google Play: https://play.google.com/store/apps/details?id=net.giampierodagostino.apps.abnlookup 
+
 Microsoft Store: Awaiting Microsoft's approval...
+
 Apple App Store: Awaiting Apple's approval...
